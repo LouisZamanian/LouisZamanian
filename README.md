@@ -4,11 +4,11 @@
 
 ## 🇫🇷 About Me 🇫🇷
 
-🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit<br>)
-💻 Full-Stack Developer en quête de défis techniques et de justice digitale<br>)
-🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs<br>)
-🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code<br>)
-🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil)<br>)
+🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit<br>
+💻 Full-Stack Developer en quête de défis techniques et de justice digitale<br>
+🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs<br>
+🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code<br>
+🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil)<br>
 🛠️ "It's not who I am underneath, but what I do that defines me"
 
 
