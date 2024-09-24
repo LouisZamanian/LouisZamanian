@@ -1,107 +1,74 @@
-# 🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit
+<div align="center">
 
-💻 **Full-Stack Developer** en quête de défis techniques et de justice digitale.  
-🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs.  
-🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code.  
-🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil).  
+#  < PaulZaman />
 
-> "It's not who I am underneath, but what I do that defines me."
+## 🇫🇷 About Me 🇫🇷
+Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
 
-## 🛠️ Compétences
-- **Langages de programmation** : Python, JavaScript, HTML, CSS
-- **Technologies web** : React, Node.js, Express
-- **Bases de données** : MongoDB, MySQL
-- **Outils et frameworks** : Git, Homebrew, Docker
-- **Autres compétences** : Développement d'applications, automatisation, résolution de problèmes
-
-## 🚀 Projets récents
-- [Nom du projet 1](lien_du_projet_1) - Une brève description de ce projet.
-- [Nom du projet 2](lien_du_projet_2) - Une brève description de ce projet.
-
-## 📫 Contact
-- 📧 Email : ton.email@example.com
-- 🌐 [LinkedIn](lien_vers_ton_linkedin)
-
----
-
-Merci de visiter mon profil GitHub ! N'hésite pas à me contacter si tu veux collaborer ou discuter de projets intéressants.  
-## 🛠️ Compétences
+##  🛠️ Skills 🛠️
 
 ### Programming Languages:
-- Python
-- Java
-- OCaml
-- MATLAB
-- Assembly
-- C
-- SQL
-- HTML
-- CSS
-- JavaScript
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Assembly-0076A8?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
 
 ### Web Development:
-- Node.js
-- React
-- Vue.js
-- Express.js
-- Flask
-- Django
+<div>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</div>
 
 ### Databases:
-- MySQL
-- SQL
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+</div>
 
 ### Data Analysis/Manipulation:
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter
+<div>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</div>
 
 Ces outils et langages me permettent de relever un large éventail de projets et de fournir des solutions robustes. De l'analyse de données et du machine learning au développement web full-stack et au trading algorithmique, je suis équipé des compétences nécessaires pour exceller dans des domaines divers.
 
-## 🚀 Projets
-- [Nom du projet 1](lien_du_projet_1) - Une brève description de ce projet.
-- [Nom du projet 2](lien_du_projet_2) - Une brève description de ce projet.
-- [Nom du projet 3](lien_du_projet_3) - Une brève description de ce projet.
+## Projects 💡
 
-- ## 🛠️ Compétences
+Voici quelques projets notables de mon dépôt GitHub :
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-3B4E8F?style=for-the-badge&logo=ocaml&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C3A?style=for-the-badge&logo=assembly&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
 
-### Web Development:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005E7C?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Full Stack Websites 🌐** - Création de sites web dynamiques et réactifs utilisant une combinaison de HTML, CSS, JavaScript et de frameworks comme React et Vue.
 
-### Data Analysis/Manipulation:
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003b57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-30B3C1?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Data Analysis and Machine Learning 📊** - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision.
 
-## 📬 Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/)
-- 📧 Email : louis.zamanianabbasi@gmail.com
+## Contact Information 📬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
 
 N'hésite pas à me contacter pour toute collaboration ou opportunité d'emploi. Je suis activement à la recherche d'un stage stimulant de novembre 2024 à avril 2025, et je suis désireux d'apporter mes insights analytiques et mes solutions stratégiques pour réussir dans le secteur financier.
+
+Let's connect and explore new possibilities together! 🤝
+
+</div>
