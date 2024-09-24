@@ -4,7 +4,7 @@
 
 ## 🇫🇷 About Me 🇫🇷
 
--🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit
+-🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit<br>)
 -💻 Full-Stack Developer en quête de défis techniques et de justice digitale
 -🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs
 -🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code
