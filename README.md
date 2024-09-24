@@ -1,6 +1,6 @@
 <div align="center">
 
-#  < PaulZaman />
+#  < LouisZamanian />
 
 ## 🇫🇷 About Me 🇫🇷
 Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
@@ -65,7 +65,7 @@ Voici quelques projets notables de mon dépôt GitHub :
 ## Contact Information 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.c.zamanian@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.zamanianabbasi@gmail.com)
 
 N'hésite pas à me contacter pour toute collaboration ou opportunité d'emploi. Je suis activement à la recherche d'un stage stimulant de novembre 2024 à avril 2025, et je suis désireux d'apporter mes insights analytiques et mes solutions stratégiques pour réussir dans le secteur financier.
 
