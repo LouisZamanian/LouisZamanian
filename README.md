@@ -100,3 +100,8 @@ Ces outils et langages me permettent de relever un large éventail de projets et
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## 📬 Contact Information
+- [LinkedIn](https://www.linkedin.com/in/louis-zamanian/) 
+- 📧 Email : louis.zamanianabbasi@gmail.com
+
+N'hésite pas à me contacter pour toute collaboration ou opportunité d'emploi. Je suis activement à la recherche d'un stage stimulant de novembre 2024 à avril 2025, et je suis désireux d'apporter mes insights analytiques et mes solutions stratégiques pour réussir dans le secteur financier.
