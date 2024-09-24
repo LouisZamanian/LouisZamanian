@@ -3,6 +3,15 @@
 #  < LouisZamanian />
 
 ## 🇫🇷 About Me 🇫🇷
+
+🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit
+💻 Full-Stack Developer en quête de défis techniques et de justice digitale
+🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs
+🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code
+🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil)
+🛠️ "It's not who I am underneath, but what I do that defines me"
+
+
 Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
 
 ##  🛠️ Skills 🛠️
