@@ -4,11 +4,7 @@
 
 ## 🇫🇷 About Me 🇫🇷
 
-🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit<br>
-🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs<br>
-🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code<br>
-🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil)<br>
-🛠️ "It's not who I am underneath, but what I do that defines me"
+Louis ZAMANIAN 
 
 
 Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
@@ -37,17 +33,12 @@ Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </div>
 
-Ces outils et langages me permettent de relever un large éventail de projets et de fournir des solutions robustes. De l'analyse de données et du machine learning au développement web full-stack et au trading algorithmique, je suis équipé des compétences nécessaires pour exceller dans des domaines divers.
 
 ## Projects 💡
 
 Voici quelques projets notables de mon dépôt GitHub :
 
-**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
-
 **Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
-
-**Full Stack Websites 🌐** - Création de sites web dynamiques et réactifs utilisant une combinaison de HTML, CSS, JavaScript et de frameworks comme React et Vue.
 
 **Data Analysis and Machine Learning 📊** - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision.
 
