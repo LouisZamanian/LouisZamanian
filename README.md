@@ -7,7 +7,7 @@
 Louis ZAMANIAN 
 
 
-Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
+Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, des algorithmes mathématiques (théorie des graphes, trading algorithmique).
 
 ##  🛠️ Skills 🛠️
 
