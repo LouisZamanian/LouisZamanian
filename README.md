@@ -40,8 +40,6 @@ Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.zamanianabbasi@gmail.com)
 
-N'hésite pas à me contacter pour toute collaboration ou opportunité d'emploi. Je suis activement à la recherche d'un stage stimulant de novembre 2024 à avril 2025, et je suis désireux d'apporter mes insights analytiques et mes solutions stratégiques pour réussir dans le secteur financier.
-
 Let's connect and explore new possibilities together! 🤝
 
 </div>
