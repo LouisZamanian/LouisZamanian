@@ -2,8 +2,6 @@
 
 #  < LouisZamanian />
 
-## 🇫🇷 About Me 🇫🇷
-
 Louis ZAMANIAN 
 
 
