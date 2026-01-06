@@ -35,14 +35,6 @@ Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative
 </div>
 
 
-## Projects 💡
-
-Voici quelques projets notables de mon dépôt GitHub :
-
-**Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
-
-**Data Analysis and Machine Learning 📊** - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision.
-
 ## Contact Information 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/) 
